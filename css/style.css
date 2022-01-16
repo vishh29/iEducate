@@ -159,7 +159,7 @@ html {
   justify-content: space-evenly;
   width: 80%;
   margin: auto;
-  padding: 20px;
+  padding: 4%;
 }
 
 .section-left {
@@ -245,4 +245,3 @@ html {
   align-items: center;
   top: 4px;
 }
-
